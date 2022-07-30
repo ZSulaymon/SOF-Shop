@@ -76,6 +76,9 @@ export default function Footer() {
           <div className="footer__logo">
             <a href="#"><img src={FooterLogo} alt="" /></a>
           </div>
+
+
+          
           <div className="footer__social-media">
             <div className="icon__container">
               <a href="#"><img src={FaceBook} alt="" /></a>

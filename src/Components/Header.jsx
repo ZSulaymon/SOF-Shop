@@ -21,7 +21,7 @@ export default function Header({ totalItems }) {
             <input type="search" placeholder="я ищу..." />
             <button className="header__search-button">
               <img src={SearchIcon} alt="Seach Icon" />
-            </button>
+            </button>   
           </div>
           <div className="header__links-container">
             <div className="header__phone">
